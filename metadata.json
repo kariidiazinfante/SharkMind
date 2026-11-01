@@ -1,0 +1,8 @@
+{
+  "name": "SHARKMIND - AI-Powered Startup Validation",
+  "description": "Strategic startup validation platform powered by AI. Analyze, question, and validate your business idea before investing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
